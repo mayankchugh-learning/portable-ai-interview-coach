@@ -1,0 +1,12 @@
+# Keep private continuity notes, exports, recordings and credentials out of the public repository
+private/
+.local/
+*.env
+.env*
+secrets*
+*_private.md
+PROGRESS.personal.json
+*.mp3
+*.wav
+*.m4a
+.DS_Store

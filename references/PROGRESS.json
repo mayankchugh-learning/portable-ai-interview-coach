@@ -1,0 +1,23 @@
+{
+  "format_version": "1.0",
+  "repository_variant": "public-sanitized-template",
+  "session_status": "READY_NOT_STARTED",
+  "new_sessions": [],
+  "last_completed_session": null,
+  "last_topic": null,
+  "coaching_rules": {
+    "do_not_start_automatically": true,
+    "wait_for_finished": true,
+    "max_questions_in_15_minutes": 1,
+    "max_questions_in_30_minutes": 2,
+    "rubric": "RUBRIC.md"
+  },
+  "next_priority": [
+    "Decision first",
+    "Application quota isolation",
+    "AuthN vs AuthZ",
+    "RAG retrieval vs generation",
+    "Outcome evidence",
+    "Owner, risk, approval"
+  ]
+}
